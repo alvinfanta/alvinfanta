@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alvin</h1>
-<h3 align="center">I'm a university student and a python glazer since 2019 :D\nI love things that are related to running servers.</h3>
+<h3 align="center">I'm a university student and a python glazer since 2019 :D</h3>
+<h3 align="center">I love things that are related to running servers.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alvinfanta&label=Profile%20views&color=0e75b6&style=flat" alt="alvinfanta" /> </p>
 
